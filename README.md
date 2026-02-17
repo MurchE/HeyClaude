@@ -35,7 +35,7 @@ Sometimes you just want a quick answer without opening a browser, logging in, or
 **Install:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/HeyClaude.git
+git clone https://github.com/MurchE/HeyClaude.git
 cd HeyClaude
 chmod +x install.sh
 ./install.sh
@@ -164,7 +164,7 @@ PRs welcome! Ideas:
 
 ## Author
 
-Built by [@murch](https://github.com/YOUR_USERNAME) as a quick utility for terminal-based AI access.
+Built by [@MurchE](https://github.com/MurchE) as a quick utility for terminal-based AI access.
 
 ---
 
