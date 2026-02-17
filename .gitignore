@@ -1,0 +1,17 @@
+# Environment files
+.env
+*.env
+
+# API keys (just in case)
+*api*key*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
