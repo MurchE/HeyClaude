@@ -1,8 +1,8 @@
 # HeyClaude
 
-A simple, elegant command-line interface to chat with Claude (Anthropic's AI) directly from your terminal.
+Ask a quick question, get a quick answer — without ever leaving your terminal.
 
-**Zero dependencies.** **Cross-platform.** **One command.**
+Powered by Claude (Anthropic). **Much simpler by design.**
 
 ```bash
 heyclaude "What is the capital of Massachusetts?"
